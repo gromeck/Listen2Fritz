@@ -1,0 +1,4 @@
+- fix mail from
+- include a little installation wizzard
+- implement a filter for logging and notification
+  incl. filter for events, numbers, ...

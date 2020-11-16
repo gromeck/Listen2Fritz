@@ -1,0 +1,17 @@
+*.[oa]
+*.m4
+Makefile
+.deps
+Makefile.in
+autom4te.cache
+INSTALL
+compile
+config.h
+config.log
+config.status
+configure
+depcomp
+install-sh
+missing
+stamp-h1
+listen2fritz
